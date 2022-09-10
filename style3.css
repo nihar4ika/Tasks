@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+table{
+    width: 600px;
+    margin: auto;
+    margin-top: 16px;
+    height: 600px;
+    margin-bottom: 50px;
+}
+thead{
+    font-size: 25px;
+    background-color: #4C4E52;
+    color: white;
+}
+.marketing{
+    text-align: start;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-family: serif;
+}
+.sales{
+    text-align: start;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-family: serif;
+}
+.product{
+    text-align: start;
+    margin: 0 0 0 4px;
+    font-size: 20px;
+    font-family: serif;
+}
+.box2{
+    background: #aef5ec;
+}
+.box1{
+    background: #80b2f2;
+}
+.box3{
+    background: #e885caf0;
+}

@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    display: flex;
+    position: absolute;
+    top: 70px;
+    left: 372px;
+}
+.box2{
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 372px;
+}
+.square1{
+    width: 200px;
+    background-color: hsla(11, 91%, 48%, 0.87);
+    height: 200px;
+}
+
+.square2{
+    width: 200px;
+    height: 200px;
+    background-color:rgba(240, 255, 255, 0.999) ;
+}
+.square3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(128, 138, 150);
+}
+.square4{
+    width: 200px;
+    height: 200px;
+    background-color:rgba(6, 11, 106, 0.893);
+}
+.squarea{
+    position: absolute;
+    top: 117px;
+    left: 120px;
+    width: 80px;
+    background-color: rgba(240, 255, 255, 0.999);
+    height: 83px;
+    border-radius: 250px 0px;
+}
+.squareb{
+    position: absolute;
+    top: 117px;
+    width: 80px;
+    background-color: rgba(6, 11, 106, 0.893);
+    height: 83px;
+    border-radius: 0px 250px;
+}
+.squarec{
+    position: absolute;
+    left: 120px;
+    width: 80px;
+    background-color: hsla(11, 91%, 48%, 0.87);
+    height: 83px;
+    border-radius: 0px 250px;
+}
+.squared{
+    
+    width: 80px;
+    background-color: rgb(128, 138, 150);
+    height: 83px;
+    border-radius: 250px 0px;
+}
