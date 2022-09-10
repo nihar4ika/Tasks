@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    background-image: linear-gradient(rgb(222, 149, 176),rgb(43, 43, 220));
+    width: 55px;
+    height: 250px;
+    position: absolute;
+    top: 115px;
+    left: 570px;
+    border-radius: 0px 83px ;
+    opacity: .9;
+}
+.box2{
+    background-image: linear-gradient(rgb(255, 192, 230),rgb(231, 46, 71));
+    opacity: .9;
+    width: 55px;
+    height: 250px;
+    position: absolute;
+    top: 115px;
+    left: 570px;
+    border-radius: 0px 83px;
+    transform: rotate(270deg);
+}
+.box3{
+    background-image: linear-gradient(rgb(255, 153, 0),rgb(255, 243, 15));
+    opacity: .7;
+    width: 55px;
+    height: 250px;
+    position: absolute;
+    top: 115px;
+    left: 570px;
+    border-radius: 0px 83px ;
+    transform: rotate(45deg);
+}
+.box4{
+    background-image: linear-gradient(rgb(0, 4, 110),rgb(139, 10, 10));
+    opacity: .7;
+    width: 55px;
+    height: 250px;
+    position: absolute;
+    top: 115px;
+    left: 570px;
+    border-radius: 0px 83px ;
+    transform: rotate(315deg);
+}
